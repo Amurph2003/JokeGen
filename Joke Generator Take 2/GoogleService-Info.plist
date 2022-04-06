@@ -7,7 +7,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.513916586126-elgsaad84ni0542dr3tcrte8op1bufbm</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA5wDvTElaZP7kqgWsgyfAh390NQYE_wro</string>
+	
 	<key>GCM_SENDER_ID</key>
 	<string>513916586126</string>
 	<key>PLIST_VERSION</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:513916586126:ios:329e7199a105405c0521df</string>
+	
 	<key>DATABASE_URL</key>
 	<string>https://joke-generator-5b419.firebaseio.com</string>
 </dict>
